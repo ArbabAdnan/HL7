@@ -1,7 +1,7 @@
-package com.example.hl7.patientserviceimpl;
+package com.example.hl7.serviceimpl;
 
 import com.example.hl7.entities.Patient;
-import com.example.hl7.patientService.PatientService;
+import com.example.hl7.service.PatientService;
 import com.example.hl7.repositories.PatientRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

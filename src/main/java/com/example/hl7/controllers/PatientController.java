@@ -2,7 +2,7 @@ package com.example.hl7.controllers;
 
 
 import com.example.hl7.entities.Patient;
-import com.example.hl7.patientService.PatientService;
+import com.example.hl7.service.PatientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.hl7.patientService;
+package com.example.hl7.service;
 
 import com.example.hl7.entities.Patient;
 
