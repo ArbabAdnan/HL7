@@ -1,4 +1,4 @@
-package com.example.hl7;
+package com.example.hl7.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
